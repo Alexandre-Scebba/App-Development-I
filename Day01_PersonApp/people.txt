@@ -1,0 +1,3 @@
+sami;36;montreal
+Lina;72;paris
+Bobby;47;Rio
